@@ -1,4 +1,4 @@
-﻿namespace AbstractTrader
+﻿namespace ITradeProcessor
 {
     public class TradeRecord
     {
